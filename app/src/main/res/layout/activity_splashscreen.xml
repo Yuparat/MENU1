@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.yuparat_mon.menu.MainActivity">
+    tools:context="com.example.yuparat_mon.menu.splashscreen">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -17,7 +17,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/imageView"
-            android:src="@drawable/doraemon" />
+            android:id="@+id/imageView2"
+            android:src="@drawable/doraemonn" />
     </LinearLayout>
 </RelativeLayout>
